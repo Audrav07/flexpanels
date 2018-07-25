@@ -1,5 +1,7 @@
 # Flex Panel Gallery
 
+![photo](panel.gif)
+
 ## Objective: 
 - Working with CSS3 flex box
 - Flex box layouts consist of a flex container which contain flex items
